@@ -1,5 +1,4 @@
-# Codecademy
-Codecademy exercises
+#Limes
 
 from matplotlib import pyplot as plt
 
